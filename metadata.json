@@ -1,0 +1,6 @@
+{
+  "name": "ClinXAI - Clinical Risk Prediction with LIME and SHAP",
+  "description": "Transparent Clinical Risk Prediction Using LIME and SHAP. Third-Year B.Tech AI & Data Science micro-project for Trustworthy and Responsible AI at Shah & Anchor Kutchhi Engineering College, Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
